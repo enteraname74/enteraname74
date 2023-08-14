@@ -2,7 +2,7 @@
 
 ### What I'm currently working on :wrench:
 
-I'm currently working on an offline music app for Android with Kotlin and XML !<br>
+I'm currently working on an offline music app for Android with Jetpack Compose.<br>
 
 ### What I'm currently learning :mortar_board:
 Currently, i'm learning :
@@ -10,7 +10,7 @@ Currently, i'm learning :
 - Jetpack Compose
 - Rust
 - Flutter
-- GTK
+- GTK4 
 
 <!--
 **enteraname74/enteraname74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
