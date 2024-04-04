@@ -1,16 +1,28 @@
 ## Hello there 👋
 
-### What I'm currently working on :wrench:
+### Things I'm currently working on :wrench:
 
-I'm currently working on an offline music app for Android with Jetpack Compose.<br>
+- [Android music application](https://github.com/enteraname74/SoulSearching) (and I'm aiming to port it to desktop as a multiplatform project!)<br>
+- [Markdown file editor software](https://github.com/enteraname74/Karkdown) (made with Kotlin as a KMP project)
+
+##### Other things I have done in the past:
+
+- [Kotlin web app with Compose for Web](https://github.com/enteraname74/ComposeWeb) (an experiment project to discover Compose for Web)
+- [Android transposition application](https://github.com/enteraname74/Transposer) (made with Kotlin + XML)
+- [Android music application](https://github.com/enteraname74/SweetMusic) (made with Kotlin + XML)
 
 ### What I'm currently learning :mortar_board:
-Currently, i'm learning :
-- Kotlin
+
+I'm a big fan of Kotlin, so I love to work with Kotlin related technologies like:
+- KMP
 - Jetpack Compose
-- Rust
+- Kotlin/JS, KVision
+- Ktor
+
+I also like to build things with other technologies, such as:
 - Flutter
-- GTK4 
+- Rust
+- GTK4
 
 <!--
 **enteraname74/enteraname74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
