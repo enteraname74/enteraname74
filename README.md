@@ -4,6 +4,8 @@
 
 - [Android music application](https://github.com/enteraname74/SoulSearching) (and I'm aiming to port it to desktop as a multiplatform project!)<br>
 - [Markdown file editor software](https://github.com/enteraname74/Karkdown) (made with Kotlin as a KMP project)
+- [Libadwaita compose theme](https://github.com/enteraname74/Kadwaita)
+- [Flow support for Exposed](https://github.com/enteraname74/ExposedFlows)
 
 ##### Other things I have done in the past:
 
